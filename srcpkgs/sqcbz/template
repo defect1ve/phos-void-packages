@@ -1,0 +1,12 @@
+# Template file for 'sqcbz'
+pkgname=sqcbz
+version=0.1.0
+revision=1
+build_style=go
+go_import_path="github.com/phos-rt/sqcbz"
+short_desc="Sqcbz is a tool to squash multiple CBZ files into one"
+maintainer="phos <heyo@phos.rip>"
+license="Public Domain"
+homepage="https://github.com/phos-rt/sqcbz"
+distfiles="https://github.com/phos-rt/sqcbz/archive/refs/heads/main.tar.gz"
+checksum="13b1b1a609142c14140f2e939761c15cad5751b133776daeaa0531cb465846f0"
